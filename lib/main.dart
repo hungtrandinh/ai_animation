@@ -51,7 +51,9 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider<HomeVM>(create: (context) => HomeVM())
+        ChangeNotifierProvider<HomeVM>(create: (context) => HomeVM()),
+        ChangeNotifierProvider<WatchVM>(create: (context) => WatchVM()),
+        ChangeNotifierProvider<ProfileVM>(create: (context)=>ProfileVM()),
       ],
       child: Scaffold(
         body: Center(

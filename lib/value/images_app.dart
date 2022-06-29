@@ -12,4 +12,5 @@ class ImagesApp{
   static const String smite="assets/icons/smite.png";
   static const String showGrid="assets/icons/show.png";
   static const String champion ="assets/images/chams.png";
+  static const String bg ="assets/images/bg.jpg";
 }

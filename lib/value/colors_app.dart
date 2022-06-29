@@ -11,6 +11,8 @@ class ColorApp{
   static const Color cardNews =Color(0xff40FFAF);
   static const Color exp = Color(0xff918BA8);
   static const Color cardConection =Color(0xffD6F2EA);
+  static const Color colorBg1 =Color(0xff1A2A3C);
+  static const Color colorBg2 =Color(0xff171A21);
 
   
 }

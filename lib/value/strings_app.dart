@@ -11,5 +11,12 @@ class Strings{
   static const String exp ="Experience Point 123,432";
   static const String nameUser = "John Hope Dio";
   static const String stateUser ="Game is on, play come on";
+  static const String connect ="Connect";
+  static const String disconnect = "Disconnect";
+  static const String login = "Login";
+  static const String sign = "Sign Up";
+  static const String email ="Email";
+  static const String password ="Password";
+  static const String confirmPassword ="ConfirmPassword";
 
 }

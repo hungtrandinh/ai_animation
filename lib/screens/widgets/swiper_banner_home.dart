@@ -27,6 +27,7 @@ class SwiperBannerState extends State<SwiperBanner> {
               fit: BoxFit.fill,
             );
           },
+          autoplay: true,
           itemCount: data.banner.length,
           pagination: const SwiperPagination(),
         ),
