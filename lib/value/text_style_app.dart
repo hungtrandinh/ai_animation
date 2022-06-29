@@ -11,4 +11,7 @@ class TextStyleApp{
   static const TextStyle styleExp =TextStyle(color: ColorApp.exp,fontSize: 12,fontWeight: FontWeight.w600);
   static const TextStyle nameUser = TextStyle(color: ColorApp.colorMainTextApp,fontSize: 24,fontWeight:FontWeight.w600);
   static const TextStyle stateUser = TextStyle(color: ColorApp.exp,fontSize: 14,fontWeight: FontWeight.w600);
+  static const TextStyle stateSocial = TextStyle(color: ColorApp.colorMainTextApp,fontSize: 10,fontWeight: FontWeight.bold);
+  static const TextStyle login = TextStyle(color: Colors.white,fontSize: 60, fontWeight: FontWeight.bold );
+  static const TextStyle iconLogin =TextStyle(color: ColorApp.colorMainTextApp,fontWeight: FontWeight.w900,fontSize: 18);
 }

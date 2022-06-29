@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232530651893",
+    "project_id": "animated-c41ed",
+    "storage_bucket": "animated-c41ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232530651893:android:f5f8d44254d32799b1b3bc",
+        "android_client_info": {
+          "package_name": "com.example.ui_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232530651893-lpchnk705f1r3hp6bbrpd9e6pdhue8s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Xo-veCxLLibXD17k8ErLDTGzhIbLWyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232530651893-lpchnk705f1r3hp6bbrpd9e6pdhue8s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
